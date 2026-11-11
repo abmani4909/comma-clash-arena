@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comma Clash Arena</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="see_scorecard">SEE SCORECARD</string>
+    <string name="start_clinic_drill">START CLINIC DRILL</string>
+    <string name="send_to_clinic">SEND TO CLINIC</string>
+    <string name="sent_to_clinic">FILED TO CLINIC</string>
+    <string name="resume">RESUME</string>
+    <string name="quit_round">QUIT ROUND</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="splash_title_line1">COMMA CLASH</string>
+    <string name="splash_title_line2">ARENA</string>
+    <string name="splash_subtitle">FIX THE SENTENCE. FLOOR THE RED PEN.</string>
+    <string name="splash_loading">LOADING THE ARENA</string>
+
+    <string name="menu_title">COMMA CLASH ARENA</string>
+    <string name="menu_tagline">TAP THE MISTAKE. LAND THE PUNCH.</string>
+    <string name="menu_tier_format">TIER %1$d</string>
+    <string name="menu_play_caption">%1$d SENTENCES · TIER %2$d</string>
+    <string name="menu_accuracy">ACCURACY</string>
+    <string name="menu_best_streak">BEST STREAK</string>
+    <string name="menu_rule_tiers">RULE TIERS</string>
+    <string name="menu_rule_clinic">RULE CLINIC</string>
+    <string name="menu_style_handbook">STYLE HANDBOOK</string>
+    <string name="menu_writer_stats">WRITER STATS</string>
+    <string name="menu_arena_options">ARENA OPTIONS</string>
+    <string name="menu_footer">OFFLINE PLAY · 25 RULES · 5 TIERS</string>
+
+    <string name="tiers_title">RULE TIERS</string>
+    <string name="tier_rules_format">%1$d RULES · %2$d/%3$d MASTERED</string>
+    <string name="tier_state_open">OPEN</string>
+    <string name="tier_state_now">NOW</string>
+    <string name="tier_state_locked">LOCKED</string>
+    <string name="tier_locked_hint">MASTER THE PREVIOUS TIER TO UNLOCK THIS ONE</string>
+
+    <string name="game_round_format">%1$d / %2$d</string>
+    <string name="game_streak_format">x%1$d</string>
+    <string name="game_verdict_correct">CORRECT</string>
+    <string name="game_verdict_missed">MISSED</string>
+    <string name="game_right_label">RIGHT:</string>
+    <string name="game_wrong_label">WRONG:</string>
+    <string name="game_ko">KO!</string>
+    <string name="game_paused">PAUSED</string>
+    <string name="pause_dialog_body">The round timer is held while this is open.</string>
+
+    <string name="gameover_win">RED PEN DOWN</string>
+    <string name="gameover_loss">ROUND OVER</string>
+    <string name="gameover_accuracy">ACCURACY</string>
+    <string name="gameover_rules_broken">RULES BROKEN</string>
+    <string name="gameover_damage">DAMAGE</string>
+    <string name="gameover_flawless">FLAWLESS ROUND</string>
+    <string name="gameover_lifetime">LIFETIME ACCURACY %1$d%%</string>
+
+    <string name="clinic_title">RULE CLINIC</string>
+    <string name="clinic_subtitle">YOUR MISSED RULES, ON REPEAT</string>
+    <string name="clinic_missed_format">MISSED %1$dX</string>
+    <string name="clinic_empty_title">NOTHING TO FIX YET</string>
+    <string name="clinic_empty_body">WIN A ROUND, MISS A RULE, COME BACK.</string>
+
+    <string name="handbook_title">STYLE HANDBOOK</string>
+    <string name="handbook_search">SEARCH RULES</string>
+    <string name="handbook_empty">NO RULE MATCHES THAT SEARCH</string>
+
+    <string name="stats_title">WRITER STATS</string>
+    <string name="stats_overall">OVERALL</string>
+    <string name="stats_rounds">ROUNDS</string>
+    <string name="stats_best_streak">BEST STREAK</string>
+    <string name="stats_weekly">WEEKLY TREND</string>
+    <string name="stats_per_rule">ACCURACY PER RULE</string>
+
+    <string name="options_title">ARENA OPTIONS</string>
+    <string name="options_text_size">TEXT SIZE</string>
+    <string name="options_size_normal">NORMAL 22</string>
+    <string name="options_size_large">LARGE 24</string>
+    <string name="options_size_huge">HUGE 26</string>
+    <string name="options_preview">The editor, calm and quick, fixed its comma.</string>
+    <string name="options_round_timer">ROUND TIMER</string>
+    <string name="options_timer_caption">20 seconds per sentence</string>
+    <string name="options_haptics">HAPTICS</string>
+    <string name="options_haptics_caption">Buzz on a correct fix</string>
+    <string name="options_spelling">REGIONAL SPELLING</string>
+    <string name="options_spelling_uk">UK</string>
+    <string name="options_spelling_us">US</string>
+    <string name="reset_dialog_title">RESET PROGRESS?</string>
+    <string name="reset_dialog_body">Tiers, accuracy, streaks and the clinic all go back to zero.</string>
+
+    <string name="percent_format">%1$d%%</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_logo">Comma Clash Arena emblem</string>
+    <string name="cd_rival">The rival red pen</string>
+    <string name="cd_pause">Pause the round</string>
+    <string name="cd_home">Return to the menu</string>
+    <string name="cd_tier_badge">Rule tier badge</string>
+    <string name="cd_clinic">Rule clinic</string>
+    <string name="cd_handbook">Style handbook</string>
+    <string name="cd_stats">Writer stats</string>
+    <string name="cd_options">Arena options</string>
+
+    <string name="sd_locked">locked</string>
+    <string name="sd_unlocked">unlocked</string>
+    <string name="sd_selected">selected</string>
+    <string name="sd_not_selected">not selected</string>
+    <string name="sd_nerve_format">nerve left %1$d of %2$d</string>
+    <string name="sd_rival_hp_format">rival health %1$d percent</string>
+    <string name="sd_rule_accuracy_format">%1$d percent accuracy</string>
+</resources>
